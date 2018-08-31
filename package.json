@@ -1,0 +1,22 @@
+{
+  "name": "hyperapp-ready",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@hyperapp/router": "^0.7.0",
+    "axios": "^0.18.0",
+    "hyperapp": "^1.2.8"
+  },
+  "devDependencies": {
+    "cra-hyperapp": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "hyperapp-scripts",
+    "build": "hyperapp-scripts build"
+  },
+  "keywords": [],
+  "author": "atagulalan",
+  "license": ""
+}
