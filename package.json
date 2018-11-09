@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@hyperapp/router": "^0.7.0",
+    "@hyperapp/router": "^0.7.1",
     "axios": "^0.18.0",
-    "hyperapp": "^1.2.8"
+    "hyperapp": "^1.2.9"
   },
   "devDependencies": {
     "cra-hyperapp": "^0.1.0"
